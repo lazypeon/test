@@ -1,1 +1,1 @@
-<?php echo 'dupa'; die;
+<?php echo 'dupa';
